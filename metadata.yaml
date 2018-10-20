@@ -1,5 +1,5 @@
 _repo: Pierre-and-His-People-Tales-of-the-Far-North-Volume-3_6176
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -29,6 +29,7 @@ subjects:
 - !lcsh 'Short stories, Canadian'
 - !lcc 'PS'
 - !lcsh 'Canada, Northern -- Fiction'
+- GITenberg
 tableOfContents: Shon McGann's tobogan ride -- Père Champagne -- The Scarlet Hunter
   -- The stone.
 title: 'Pierre and His People: Tales of the Far North. Volume 3.'
